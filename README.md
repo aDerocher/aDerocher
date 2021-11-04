@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
+<h3 align="center">Full Stack developer with 6+ years working experience in the tech industry in a design studio. Hard worker, great teammate, fast learner, excellent problem solver.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrewderocher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewderocher" height="30" width="40" /></a>
