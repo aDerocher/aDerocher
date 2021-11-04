@@ -36,4 +36,5 @@
 </p>
 
 <div style="display:flex; flex-wrap:nowrap; width:100%">
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /><span> </span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aderocher&show_icons=true&locale=en&layout=compact" alt="aderocher" /></p></div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /><span> </span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aderocher&show_icons=true&locale=en&layout=compact" alt="aderocher" />
+</div>
