@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">Full Stack developer with 6+ years working experience in the tech industry in a design studio. Hard worker, great teammate, fast learner, excellent problem solver.</h3>
+<h3 align="center">Full Stack developer with 6+ years working experience in the tech industry in a design studio.</h3>
+<h3 align="center">Hard Worker | Great Teammate | Fast Learner | Excellent Problem Solver</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
