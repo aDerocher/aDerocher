@@ -35,6 +35,4 @@
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
-<div style="display:flex; flex-wrap:nowrap; width:100%">
-  <img style="max-width:59%" src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /><span> </span><img style="max-width:39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aderocher&show_icons=true&locale=en&layout=compact" alt="aderocher" />
-</div>
+<div style="display:flex; flex-wrap:nowrap; width:100%"><img style="max-width:59%" src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /><span> </span><img style="max-width:39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aderocher&show_icons=true&locale=en&layout=compact" alt="aderocher" /></div>
