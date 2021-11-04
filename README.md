@@ -36,5 +36,5 @@
 </p>
 
 <div style="display:flex; flex-wrap:nowrap; width:100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /><span> </span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aderocher&show_icons=true&locale=en&layout=compact" alt="aderocher" />
+  <img style="max-width:59%" src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /><span> </span><img style="max-width:39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aderocher&show_icons=true&locale=en&layout=compact" alt="aderocher" />
 </div>
