@@ -6,20 +6,21 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 :root{
-    --color-bg: #35641f;
-    --color-bg-alt: darken(#35641f, 5);
+    /* --color-bg: #5f5c4e; */
+    --color-bg: #333837;
+    --color-bg-alt: darken(var(--color-bg), 5);
     --color-fg:	rgba(255,255,255,0.55);
     --color-fg-bold:#ffffff;
     --color-fg-light:rgba(255,255,255,0.35);
     --color-border:	rgba(255,255,255,0.15);
     --color-border-bg:rgba(255,255,255,0.05);
     
-    --color-accent1:#29292b;
-    --color-accent1-alt:darken(#171d1b, 10);
-    --color-accent2:#112c0b;
-    --color-accent2-alt:darken(#2c5f4f, 10);
-    --color-accent3:#5f5c4e;
-    --color-accent3-alt: darken(#5f5c4e, 10);
+    --color-accent1:#225057;
+    --color-accent1-alt:darken(var(--color-accent1), 10);
+    --color-accent2:#334443;
+    --color-accent2-alt:darken(var(--color-accent2), 10);
+    --color-accent3:#292825;
+    --color-accent3-alt: darken(var(--color-accent3), 10);
 
     --sidebar: rgb(34, 32, 29);
 }
