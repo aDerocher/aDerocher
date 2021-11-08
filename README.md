@@ -7,6 +7,7 @@
   <!-- <a href="https://linkedin.com/in/andrewderocher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewderocher" height="15" width="15" /></a> -->
 </h5>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aderocher&show_icons=true&locale=en" alt="aderocher" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -37,10 +38,4 @@
 
 <p align="center"><img style="max-width:59%" src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aderocher&show_icons=true&locale=en&layout=compact" alt="aderocher" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aderocher&show_icons=true&locale=en" alt="aderocher" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /></p>
 
