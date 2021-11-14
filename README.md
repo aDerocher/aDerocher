@@ -36,6 +36,6 @@
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img style="max-width:59%" src="https://github-readme-streak-stats.herokuapp.com/?user=aderocher&" alt="aderocher" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aDerocher&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
