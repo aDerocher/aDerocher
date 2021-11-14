@@ -8,8 +8,9 @@
 </h5>
 
 
-<p align="center"> ![aDerocher's GitHub stats](https://github-readme-stats.vercel.app/api?username=aDerocher&show_icons=true)</p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aderocher&show_icons=true&locale=en" alt="aderocher" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aderocher&show_icons=true&theme=dark&locale=en" alt="aderocher" /></p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -38,6 +39,6 @@
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aDerocher&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aDerocher&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></p>
 
 
