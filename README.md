@@ -7,7 +7,7 @@
   
   <!-- <a href="https://linkedin.com/in/andrewderocher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewderocher" height="15" width="15" /></a> -->
 <br>
-  Or view my personal homepage <a href="http://www.andrewderocher.com">here</a>
+  Or visit my <a href="http://www.andrewderocher.com">personal homepage</a>
 </h5>
 
 
